@@ -1,4 +1,6 @@
 #!/bin/bash
+# Cloudflare Auto Waiting Room = CF Auto WR
+# version 1.0.0
 
 #config
 debug_mode=0 # 1 = true, 0 = false, adds more logging & lets you edit vars to test the script
