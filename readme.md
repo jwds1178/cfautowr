@@ -1,4 +1,4 @@
-# cfautowr - CloudFlare Under Attack Mode Automation
+# cfautowr - Cloudflare Waiting Room Automation - CF Auto WR
 
 ### What does it do
 Enables a queue-all Waiting Room with Cloudflare based on CPU load percentage using the Cloudflare API.
