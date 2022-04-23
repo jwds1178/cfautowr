@@ -14,6 +14,8 @@ It creates a service that runs on a timer, which executes our main shell script 
 
 ### How to install
 
+A prerequisite to this script is that you've already created a Waiting Room at Cloudflare.  It should be in a disabled/suspended state, allowing for this script to automate its usage.
+
 Navigate to the parent path where you want to install.  If you want to install to
 /home/cfautowr then navigate to /home
 
