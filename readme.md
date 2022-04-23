@@ -17,13 +17,13 @@ It creates a service that runs on a timer, which executes our main shell script 
 A prerequisite to this script is that you've already created a Waiting Room at Cloudflare.  It should be in a disabled/suspended state, allowing for this script to automate its usage.
 
 Navigate to the parent path where you want to install.  If you want to install to
-/home/cfautowr then navigate to /home
+*/home/cfautowr* then navigate to */home*
 
 ```bash
 wget https://github.com/jwds1178/cfautowr/raw/master/cfautowr.sh;
 ```
 
-Search-and-replace */home/cfautowr* with the actual directory path where it's installed, your Cloudflare API token, Waiting Room ID, Zone ID
+Search-and-replace */home/cfautowr* with the actual directory path where it's installed.  Configure your Cloudflare API token, Waiting Room ID, Zone ID.
 
 ```bash
 mkdir cfautowr;
