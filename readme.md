@@ -23,7 +23,7 @@ Navigate to the parent path where you want to install.  If you want to install t
 wget https://github.com/jwds1178/cfautowr/raw/master/cfautowr.sh;
 ```
 
-Search-and-replace /home/cfautowr with the actual directory path where it's installed, your Cloudflare API token, Waiting Room ID, Zone ID
+Search-and-replace */home/cfautowr* with the actual directory path where it's installed, your Cloudflare API token, Waiting Room ID, Zone ID
 
 ```bash
 mkdir cfautowr;
