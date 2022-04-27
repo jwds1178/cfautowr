@@ -42,8 +42,8 @@ It's now installed and running.  Check the logs and confirm it's working.
 -uninstall      : uninstalls and then deletes the sub folder
 -disable_script : temporarily disables the service from running
 -enable_script  : re-enables the service
--enable_wr     : enables Under Attack Mode manually
--disable_wr    : disables Under Attack Mode manually
+-enable_wr     : enables Waiting Room manually
+-disable_wr    : disables Waiting Room manually
 ```
 
 ### Notes
